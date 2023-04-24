@@ -1,0 +1,16 @@
+{
+  "equip": {
+    "names": ["Gryffondor", "Poufsouffle", "Serdaigle", "Serpentard"],
+    "theme": "harry potter",
+    "max": 0
+  },
+  "party": {
+    "theme": ["harry potter"],
+    "rep_time": 20.0,
+    "rounds": 30,
+    "score_first": 10,
+    "score_last": 1,
+    "score_bad": 0,
+    "score_no": 0
+  }
+}

@@ -1,0 +1,4 @@
+token: xxx # Twitch access token (see https://dev.twitch.tv/docs/irc/authenticate-bot/)
+prefix: '!' # prefix of command use in chat
+chan: lotekatv # channel to add bot
+encoding: utf-8
