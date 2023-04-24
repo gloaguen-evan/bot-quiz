@@ -9,5 +9,7 @@ After a set time, the answer is given and the three fastest are announced.
 It is possible to set texts in a streaming scene (OBS) to display the question, the choices, the score of the teams and the ranking of the participants.
 
 Upcoming improvement:
+- make tests
 - possibility to play without a team
 - put a parameter to make writing to files optional
+- see if change qcm.csv into db
